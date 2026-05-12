@@ -147,3 +147,11 @@ Detecting outliers is important because extreme values can negatively affect mac
 
 ---
 
+# 📁 Project Structure
+
+```bash
+├── Dataset/
+├── EDA DA.ipynb
+├── images/
+├── requirements.txt
+└── README.md
